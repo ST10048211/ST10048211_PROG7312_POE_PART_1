@@ -103,7 +103,7 @@ Thanks to Othneil Drew (Drew, 2022) for the Readme file template.
 
 - Github: [@ST10048211](https://github.com/ST10048211)
 ### - Part 1:
-- Project Link: [https://github.com/VCSTDN/prog6212-part-1-ST10048211.git](https://github.com/VCSTDN/prog6212-part-1-ST10048211.git)
+- Project Link: [https://github.com/ST10048211/ST10048211_PROG7312_POE_PART_1.git](https://github.com/ST10048211/ST10048211_PROG7312_POE_PART_1.git)
 - YouTube Link:  https://youtu.be/jDoMSRV6XcU
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
