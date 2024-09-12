@@ -1,0 +1,2 @@
+Location: 41 terror street, Category: Public Transport, Description: transport strike, Attachment: C:\Users\anjal\Downloads\APDS7311-POE-Part_1-Q1.A[1].jpg
+Location: 12 bird street, Category: Waste Management, Description: no garbage collection, Attachment: C:\Users\anjal\Downloads\WhatsApp Image 2024-09-06 at 18.49.19_896cce0c.jpg

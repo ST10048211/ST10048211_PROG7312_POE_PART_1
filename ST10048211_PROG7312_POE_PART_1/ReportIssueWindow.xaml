@@ -1,0 +1,228 @@
+﻿<Window x:Class="ST10048211_PROG7312_POE_PART_1.ReportIssueWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ST10048211_PROG7312_POE_PART_1"
+        mc:Ignorable="d"
+        
+        WindowStartupLocation ="CenterScreen"
+                Title="ReportIssueWindow" Height="700" Width="700">
+    <Grid Background="#ffdc97">
+
+        <GroupBox HorizontalAlignment="Center" Height="650" Width="600" BorderBrush="#0018EC" BorderThickness="3">
+            <Grid Height="500">
+                <!--<Label Content="Report New Issues" Width="475" Height="60" VerticalAlignment="Top" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontSize="30" FontWeight="Bold" Foreground="#9c4f96" BorderBrush="#8bd448" BorderThickness="3" />-->
+                <!--<Button Name="btnReportIssue" Content="Report Issues" Height="90" Width="400" Margin="94,106,94,304" Background="#fff997" FontSize="20" FontWeight="Bold" BorderBrush="#fc6a0c" BorderThickness="3"/>
+                <Button Name="btnLocalEvents" Content="Local Events and Announcements" Height="90" Width="400" Margin="94,237,94,173" Background="#fcdd6b" FontSize="20" FontWeight="Bold"  BorderBrush="#fc6a0c" BorderThickness="3" IsEnabled="False"/>
+                <Button Name="btnServiceRequest" Content="Service Request Status" Height="90" Width="400" Margin="94,367,94,43" Background="#feb83f" FontSize="20" FontWeight="Bold"  BorderBrush="#fc6a0c" BorderThickness="3" IsEnabled="False"/>-->
+
+                <!-- Define grid rows and columns for better positioning -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="7*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Heading -->
+                <Label Name="lblHeading" Content="Report New Issue" 
+                        Width="475" Height="60"
+                       VerticalAlignment="Top" HorizontalAlignment="Left" HorizontalContentAlignment="Center"
+                       FontSize="30" FontWeight="Bold" Foreground="#9c4f96" BorderBrush="#8bd448" BorderThickness="3"
+                    Margin="51,-54,0,0" Grid.Column="1" />
+
+
+                <!-- Location Input -->
+                <Label Name="lblLocation" Content="Location:" 
+                        Grid.Row="1" Grid.Column="0"
+                        VerticalAlignment="Top" 
+                        FontWeight="Bold" Foreground="Black"
+                        FontSize="20"
+                       Width="150"
+                       HorizontalAlignment="Left"
+                        Margin="35,20,0,0" Grid.ColumnSpan="2"/>
+
+
+                <TextBox Name="txtLocation" 
+                      Grid.Row="1" Grid.Column="1"
+                      Margin="195,20,75,0" Width="350" Height="40"
+                        VerticalAlignment="Top" 
+                      FontSize="20" TextChanged="txtLocation_TextChanged"/>
+
+
+                <!-- Category Selection -->
+                <Label Name="lblCategory" Content="Category:" 
+                       Grid.Row="2" Grid.Column="0"
+                       VerticalAlignment="Top" 
+                       FontWeight="Bold" Foreground="Black"
+                       FontSize="20"
+                        Width="150"
+                        HorizontalAlignment="Left"
+                       Margin="35,20,0,0" Grid.ColumnSpan="2"/>
+
+
+                <ComboBox Name="cmbCategory" 
+                      Grid.Row="2" Grid.Column="1"
+                      Margin="195,20,75,10" Width="350" Height="40"
+                      FontSize="20" SelectionChanged="cmbCategory_SelectionChanged">
+                    <ComboBoxItem Content="Water and Sanitation"/>
+                    <ComboBoxItem Content="Electricity and Power"/>
+                    <ComboBoxItem Content="Waste Management"/>
+                    <ComboBoxItem Content="Roads and Infrastructure"/>
+                    <ComboBoxItem Content="Public Parks and Spaces"/>
+                    <ComboBoxItem Content="Safety and Security"/>
+                    <ComboBoxItem Content="Noise Complaints"/>
+                    <ComboBoxItem Content="Health and Environmental Issue"/>
+                    <ComboBoxItem Content="Public Transport"/>
+                    <ComboBoxItem Content="Building and Zoning"/>
+                </ComboBox>
+
+                <!-- Description Box -->
+                <Label Name="lblDescription" Content="Description:" 
+                   Grid.Row="3" Grid.Column="0"
+                   VerticalAlignment="Top" 
+                   FontWeight="Bold" Foreground="Black"
+                     FontSize="20"
+                     Width="150"
+                     HorizontalAlignment="Left"
+                   Margin="35,10,0,0" Grid.ColumnSpan="2"/>
+
+                <!--<RichTextBox Name="rtxtDescription" 
+                     Grid.Row="3" Grid.Column="1"
+                     Margin="195,20,75,10" Height="100"
+                     FontSize="20" TextChanged="rtxtDescription_TextChanged">
+                    
+                    <FlowDocument>
+                        <Paragraph>
+                            <Run Text=""/>
+                        </Paragraph>
+                    </FlowDocument>
+                </RichTextBox>-->
+
+                <RichTextBox Name="rtxtDescription" 
+             Grid.Row="3" Grid.Column="1"
+                    Height="100"
+                             Width="350"
+                             HorizontalAlignment="Left"
+             FontSize="20" 
+             TextChanged="rtxtDescription_TextChanged"
+             AcceptsReturn="True" 
+             VerticalScrollBarVisibility="Auto" Margin="195,0,0,0">
+                </RichTextBox>
+
+
+
+                <!-- File Attachment -->
+                <Label Name="lblFileStatus" Content="File Status:" 
+                   Grid.Row="4" Grid.Column="0"
+                   VerticalAlignment="Top" 
+                   FontWeight="Bold" Foreground="Black"
+                   FontSize="20"
+                    Width="150"
+                    HorizontalAlignment="Left"
+                   Margin="35,10,0,0" Grid.ColumnSpan="2"/>
+
+                <Button Name="btnAttachment" Content="📎Select to Upload a File/Image" 
+                    Grid.Row="4" Grid.Column="1"
+                        FontSize="20"
+                    Margin="195,10,75,10" Width="350" Height="40" 
+                    Background="#333" Foreground="White" Click="btnAttachment_Click" 
+                        
+                        />
+
+                <!-- New label to show selected file name -->
+                <Label Name="lblAttachment" Content="No file attached"
+                    Grid.Row="5" Grid.Column="2"
+                    VerticalAlignment="Center"
+                    FontStyle="Italic" Foreground="#555"
+                    FontSize="20"
+                    HorizontalAlignment="Center"/>
+
+
+                <!-- Progress Bar -->
+
+                <ProgressBar x:Name="progBarIssue" 
+                  Grid.Row="6" Grid.Column="1" Height="35"
+                  Maximum="100" Value="0" 
+                  Margin="69,15,108,5">
+                    <ProgressBar.Foreground>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                            <GradientStop Color="#FF6A00" Offset="0.0" />
+                            <GradientStop Color="#FFD800" Offset="1.0" />
+                        </LinearGradientBrush>
+                    </ProgressBar.Foreground>
+                    <ProgressBar.Resources>
+                        <Style TargetType="Rectangle">
+                            <Setter Property="RadiusX" Value="10"/>
+                            <Setter Property="RadiusY" Value="10"/>
+                        </Style>
+                    </ProgressBar.Resources>
+
+                </ProgressBar>
+
+                <Label Name="lblProgressPercentage" Content="0%" 
+                    Grid.Row="6" Grid.Column="0"
+                    VerticalAlignment="Top"
+                       HorizontalAlignment="Left"
+                    FontWeight="Bold" Foreground="#555"
+                    FontSize="18"
+                    Margin="530,15,0,0" Grid.ColumnSpan="2"/>
+
+
+
+                <Button x:Name="btnSubmit" Content="Submit Issue"
+                            Margin="90,22,131,0"
+                            Grid.Row="7" Grid.Column="1"
+                        Width="399" Height="40" 
+                        IsEnabled="False"
+                        Background="#28a745" Foreground="White" 
+                        FontWeight="Bold" FontSize="20" Grid.RowSpan="2" VerticalAlignment="Top" Click="btnSubmit_Click"
+                            />
+
+            </Grid>
+
+
+        </GroupBox>
+
+        <Button x:Name="btnMainMenu" Content="Back To Main Menu" 
+                       Background="#dc3545" Foreground="White" 
+                       FontWeight="Bold" Margin="0,0,86,35" 
+               FontSize="16"
+               HorizontalContentAlignment="Center"
+               Height="40"
+                 VerticalAlignment="Bottom"
+                
+
+ HorizontalAlignment="Right"
+               Width="180" Click="btnMainMenu_Click"/>
+
+
+
+        <Button x:Name="btnDisplayIssues1" Content="Display Existing Issues" 
+           Background="#ff6355" Foreground="White" 
+           FontWeight="Bold" 
+               FontSize="16"
+                HorizontalContentAlignment="Center"
+                VerticalAlignment="Bottom"
+                Margin="86,0,0,35"
+                HorizontalAlignment="Left"
+Height="40"
+               Width="180" Click="btnDisplayIssues1_Click"
+                           />
+
+
+
+    </Grid>
+</Window>
+
