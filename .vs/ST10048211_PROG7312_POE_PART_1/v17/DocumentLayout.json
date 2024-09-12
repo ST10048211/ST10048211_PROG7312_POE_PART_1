@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|c:\\users\\anjal\\onedrive\\desktop\\prog_2024\\prog7312\\part_1\\st10048211_prog7312_poe_part_1\\st10048211_prog7312_poe_part_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|c:\\users\\anjal\\onedrive\\desktop\\prog_2024\\prog7312\\part_1\\st10048211_prog7312_poe_part_1\\st10048211_prog7312_poe_part_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|c:\\users\\anjal\\onedrive\\desktop\\prog_2024\\prog7312\\part_1\\st10048211_prog7312_poe_part_1\\st10048211_prog7312_poe_part_1\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|c:\\users\\anjal\\onedrive\\desktop\\prog_2024\\prog7312\\part_1\\st10048211_prog7312_poe_part_1\\st10048211_prog7312_poe_part_1\\reportissuewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\st10048211_prog7312_poe_part_1\\reportissuewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\reportissuewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|c:\\users\\anjal\\onedrive\\desktop\\prog_2024\\prog7312\\part_1\\st10048211_prog7312_poe_part_1\\st10048211_prog7312_poe_part_1\\displayissuewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\st10048211_prog7312_poe_part_1\\displayissuewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\displayissuewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|c:\\users\\anjal\\onedrive\\desktop\\prog_2024\\prog7312\\part_1\\st10048211_prog7312_poe_part_1\\st10048211_prog7312_poe_part_1\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\st10048211_prog7312_poe_part_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|c:\\users\\anjal\\onedrive\\desktop\\prog_2024\\prog7312\\part_1\\st10048211_prog7312_poe_part_1\\st10048211_prog7312_poe_part_1\\displayissuewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\st10048211_prog7312_poe_part_1\\displayissuewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\displayissuewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|c:\\users\\anjal\\onedrive\\desktop\\prog_2024\\prog7312\\part_1\\st10048211_prog7312_poe_part_1\\st10048211_prog7312_poe_part_1\\reportissuewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\st10048211_prog7312_poe_part_1\\reportissuewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\reportissuewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|c:\\users\\anjal\\onedrive\\desktop\\prog_2024\\prog7312\\part_1\\st10048211_prog7312_poe_part_1\\st10048211_prog7312_poe_part_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\st10048211_prog7312_poe_part_1\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\st10048211_prog7312_poe_part_1\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031C27D7-592E-4A56-958B-94D5E3890A8C}|ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1.csproj|solutionrelative:st10048211_prog7312_poe_part_1\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 185,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "DisplayIssueWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml.cs",
+              "RelativeToolTip": "ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:30:10.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Issue.cs",
               "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\Issue.cs",
               "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\Issue.cs",
@@ -58,87 +70,45 @@
               "RelativeToolTip": "ST10048211_PROG7312_POE_PART_1\\Issue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:09:50.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T07:09:50.511Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SinglyLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\SinglyLinkedList.cs",
-              "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\SinglyLinkedList.cs",
-              "ToolTip": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\SinglyLinkedList.cs",
-              "RelativeToolTip": "ST10048211_PROG7312_POE_PART_1\\SinglyLinkedList.cs",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAYwKwAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T06:52:35.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DisplayIssueWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml.cs",
-              "RelativeToolTip": "ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAgwGEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T05:30:10.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ReportIssueWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\ReportIssueWindow.xaml.cs",
               "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\ReportIssueWindow.xaml.cs",
               "ToolTip": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\ReportIssueWindow.xaml.cs",
               "RelativeToolTip": "ST10048211_PROG7312_POE_PART_1\\ReportIssueWindow.xaml.cs",
-              "ViewState": "AQIAAJ4AAAAAAAAAAADwv8wAAAAmAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAMwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T19:35:53.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T19:35:53.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "DisplayIssueWindow.xaml",
               "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml",
               "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml",
               "ToolTip": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml",
               "RelativeToolTip": "ST10048211_PROG7312_POE_PART_1\\DisplayIssueWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-11T19:20:36.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T19:20:36.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ReportIssueWindow.xaml",
               "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\ReportIssueWindow.xaml",
               "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\ReportIssueWindow.xaml",
               "ToolTip": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\ReportIssueWindow.xaml",
               "RelativeToolTip": "ST10048211_PROG7312_POE_PART_1\\ReportIssueWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-11T19:20:16.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T19:20:16.697Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\MainWindow.xaml",
-              "RelativeToolTip": "ST10048211_PROG7312_POE_PART_1\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-11T19:19:17.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\MainWindow.xaml.cs",
@@ -148,6 +118,29 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T19:19:15.696Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\MainWindow.xaml",
+              "RelativeToolTip": "ST10048211_PROG7312_POE_PART_1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-11T19:19:17.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinglyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\SinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "ST10048211_PROG7312_POE_PART_1\\SinglyLinkedList.cs",
+              "ToolTip": "C:\\Users\\anjal\\OneDrive\\Desktop\\PROG_2024\\PROG7312\\PART_1\\ST10048211_PROG7312_POE_PART_1\\ST10048211_PROG7312_POE_PART_1\\SinglyLinkedList.cs",
+              "RelativeToolTip": "ST10048211_PROG7312_POE_PART_1\\SinglyLinkedList.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwKgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:52:35.869Z"
             }
           ]
         }

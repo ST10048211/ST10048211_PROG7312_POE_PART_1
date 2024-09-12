@@ -8,8 +8,15 @@ using System.Threading.Tasks;
 
 namespace ST10048211_PROG7312_POE_PART_1
 {
+    /// <summary>
+    /// This class is my defined generic data structure - SinglyLinkedList
+    /// </summary>
     public class SinglyLinkedList<T>
     {
+        /// <summary>
+        /// Internal class called Node
+        /// </summary>
+        /// <typeparam name="K"></typeparam>
         public class Node<K>
         {
             public K Data { get; set; }
@@ -35,6 +42,10 @@ namespace ST10048211_PROG7312_POE_PART_1
         public Node<T> Head => _head;
         public Node<T> Tail => _tail;
 
+        /// <summary>
+        /// This method accepts 1 parameter of type T 
+        /// </summary>
+        /// <param name="data"></param>
         public void InsertIssue(T data)
         {
             var node = new Node<T>(data);
@@ -51,6 +62,11 @@ namespace ST10048211_PROG7312_POE_PART_1
             _length++;
         }
 
+        /// <summary>
+        /// This method basically overrides the prev method accepting the index where the data must be inserted
+        /// </summary>
+        /// <param name="data"></param>
+        /// <param name="idx"></param>
         public void InsertNewIssue(T data, int idx)
         {
             var node = new Node<T>(data);
@@ -79,44 +95,13 @@ namespace ST10048211_PROG7312_POE_PART_1
             _length++;
         }
 
-        public T DeleteIssue(int idx)
-        {
-            if (_length == 0)
-            {
-                throw new InvalidOperationException("The list is empty.");
-            }
 
-            Node<T> nodeToDelete;
-
-            if (idx == 0)
-            {
-                nodeToDelete = _head;
-                _head = _head.Next;
-                if (_head == null)
-                {
-                    _tail = null;
-                }
-            }
-            else
-            {
-                Node<T> temp = _head;
-                for (int i = 0; i < idx - 1; i++)
-                {
-                    temp = temp.Next;
-                }
-
-                nodeToDelete = temp.Next;
-                temp.Next = nodeToDelete.Next;
-                if (nodeToDelete.Next == null)
-                {
-                    _tail = temp; // Update the tail if the last node was deleted
-                }
-            }
-
-            _length--;
-            return nodeToDelete.Data;
-        }
-
+        /// <summary>
+        /// this method returns the node that is at the position in the index passed ini the arguments
+        /// </summary>
+        /// <param name="idx"></param>
+        /// <returns></returns>
+        /// <exception cref="IndexOutOfRangeException"></exception>
         public T GetNode(int idx)
         {
             if (idx < 0 || idx >= _length) throw new IndexOutOfRangeException();
@@ -127,17 +112,10 @@ namespace ST10048211_PROG7312_POE_PART_1
             }
             return temp.Data;
         }
-
-        //public void Update(T data, int idx)
-        //{
-        //    var temp = _head;
-        //    for (int i = 0; i < idx; i++)
-        //    {
-        //        temp = temp.Next;
-        //    }
-        //    temp.Data = data;
-        //}
-
+        /// <summary>
+        /// this method overrides the ToString() method with the data from the nodes
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             if (_length == 0) return "No nodes in the list.";
@@ -170,7 +148,7 @@ namespace ST10048211_PROG7312_POE_PART_1
                 }
             }
         }
-    
+
 
 
         // Load list data from a file
@@ -189,8 +167,6 @@ namespace ST10048211_PROG7312_POE_PART_1
                 }
             }
         }
-
-   
 
     }
 }
